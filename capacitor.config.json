@@ -1,0 +1,16 @@
+{
+  "appId": "com.etudemax.app",
+  "appName": "EtudeMax",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "Camera": {
+      "present": true
+    },
+    "Filesystem": {
+      "present": true
+    }
+  }
+}
